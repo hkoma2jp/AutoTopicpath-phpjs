@@ -56,3 +56,7 @@ var topicpathMap = {
 	'/level1/level2/index_sub.html':'level2 サブページのタイトル文字列'
 };
 ```
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/hkoma2jp/autotopicpath-phpjs/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
